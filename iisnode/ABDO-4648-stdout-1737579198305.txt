@@ -1,0 +1,31 @@
+[
+  { FieldName: 'CONTACT', ItemElementName: 'String', Item: 'ccc' },
+  {
+    FieldName: 'CONTRACT_TYPE',
+    ItemElementName: 'String',
+    Item: 'Empleo'
+  }
+]
+[
+  { FieldName: 'CONTACT', ItemElementName: 'String', Item: 'ccc' },
+  {
+    FieldName: 'CONTRACT_TYPE',
+    ItemElementName: 'String',
+    Item: 'Empleo'
+  }
+]
+{
+  TimeStamp: '/Date(1736725335902)/',
+  UserName: 'abdessamadelmallouki.admin',
+  OrganizationName: 'testabdessamad2',
+  FileCabinetGuid: '98d716c9-420f-40e2-b9f5-6708b61c0a3e',
+  DialogGuid: '1db12f75-fd1e-4207-9ab1-7564c6c82533',
+  Values: [
+    { FieldName: 'CONTACT', ItemElementName: 'String', Item: 'ccc' },
+    {
+      FieldName: 'CONTRACT_TYPE',
+      ItemElementName: 'String',
+      Item: 'Empleo'
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+(node:7108) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Application has thrown an uncaught exception and is terminated:
+ReferenceError: PORT is not defined
+    at Server.<anonymous> (C:\Program Files\iisnode\www\Validation-NodeJS-samples\server.js:77:63)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1927:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
